@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202604121925168R5KO5</value>
+    <value>20260412193521LRJ4HG</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260412192516WSKOJW</value>
+    <value>2026041219352170VTM5</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -804,11 +804,10 @@
           <odeIdeviceId>idevice-1775817898840-10pobf0yr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/mceclip0.png" width="530" height="87" alt="" /><br /></p>
-<p></p>
-<p><a href="https://educastur-my.sharepoint.com/my?id=%2Fpersonal%2Fazarasg%5Feducastur%5Forg%2FDocuments%2FFORMACIONES%2FCURSO%20COMPETENCIA%20DIGITAL%20B2%202026%2FSirgoGonzalez%5FAzara%5FB2%2FSirgo%5FGonzalez%5FAzara%5Factividad%5F2%5Fa%2Eelpx&parent=%2Fpersonal%2Fazarasg%5Feducastur%5Forg%2FDocuments%2FFORMACIONES%2FCURSO%20COMPETENCIA%20DIGITAL%20B2%202026%2FSirgoGonzalez%5FAzara%5FB2" target="_blank" rel="noopener" title="">elp descargable</a></p>
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" width="530" height="87" alt="" /></p>
+<p><a href="{{context_path}}/content/resources/Sirgo_Gonzalez_Azara_actividad_2a (1).elpx" title="Sirgo_Gonzalez_Azara_actividad_2a (1).elpx">Fichero descargable</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775817898840-10pobf0yr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"530\" height=\"87\" alt=\"\" /><br /></p>\n<p></p>\n<p><a href=\"https://educastur-my.sharepoint.com/my?id=%2Fpersonal%2Fazarasg%5Feducastur%5Forg%2FDocuments%2FFORMACIONES%2FCURSO%20COMPETENCIA%20DIGITAL%20B2%202026%2FSirgoGonzalez%5FAzara%5FB2%2FSirgo%5FGonzalez%5FAzara%5Factividad%5F2%5Fa%2Eelpx&parent=%2Fpersonal%2Fazarasg%5Feducastur%5Forg%2FDocuments%2FFORMACIONES%2FCURSO%20COMPETENCIA%20DIGITAL%20B2%202026%2FSirgoGonzalez%5FAzara%5FB2\" target=\"_blank\" rel=\"noopener\" title=\"\">elp descargable</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775817898840-10pobf0yr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"530\" height=\"87\" alt=\"\" /></p>\n<p><a href=\"{{context_path}}/content/resources/Sirgo_Gonzalez_Azara_actividad_2a (1).elpx\" title=\"Sirgo_Gonzalez_Azara_actividad_2a (1).elpx\">Fichero descargable</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
